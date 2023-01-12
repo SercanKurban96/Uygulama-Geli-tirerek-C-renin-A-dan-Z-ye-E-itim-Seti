@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Do_While\Do_While\bin\Debug\Do_While.exe.config
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Do_While\Do_While\bin\Debug\Do_While.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Do_While\Do_While\bin\Debug\Do_While.pdb
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Do_While\Do_While\obj\Debug\Do_While.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Do_While\Do_While\obj\Debug\Do_While.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Do_While\Do_While\obj\Debug\Do_While.Form1.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Do_While\Do_While\obj\Debug\Do_While.Properties.Resources.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Do_While\Do_While\obj\Debug\Do_While.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Do_While\Do_While\obj\Debug\Do_While.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Do_While\Do_While\obj\Debug\Do_While.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Do_While\Do_While\obj\Debug\Do_While.pdb

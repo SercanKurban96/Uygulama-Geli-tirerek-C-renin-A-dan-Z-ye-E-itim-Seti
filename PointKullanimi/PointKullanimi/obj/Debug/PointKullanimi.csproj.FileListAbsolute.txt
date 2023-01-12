@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\PointKullanimi\PointKullanimi\bin\Debug\PointKullanimi.exe.config
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\PointKullanimi\PointKullanimi\bin\Debug\PointKullanimi.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\PointKullanimi\PointKullanimi\bin\Debug\PointKullanimi.pdb
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\PointKullanimi\PointKullanimi\obj\Debug\PointKullanimi.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\PointKullanimi\PointKullanimi\obj\Debug\PointKullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\PointKullanimi\PointKullanimi\obj\Debug\PointKullanimi.Form1.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\PointKullanimi\PointKullanimi\obj\Debug\PointKullanimi.Properties.Resources.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\PointKullanimi\PointKullanimi\obj\Debug\PointKullanimi.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\PointKullanimi\PointKullanimi\obj\Debug\PointKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\PointKullanimi\PointKullanimi\obj\Debug\PointKullanimi.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\PointKullanimi\PointKullanimi\obj\Debug\PointKullanimi.pdb

@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\bin\Debug\Karar_Yapilari_Egzersiz.exe.config
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\bin\Debug\Karar_Yapilari_Egzersiz.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\bin\Debug\Karar_Yapilari_Egzersiz.pdb
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.Form1.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.Properties.Resources.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.pdb
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Karar_Yapilari_Egzersiz\Karar_Yapilari_Egzersiz\obj\Debug\Karar_Yapilari_Egzersiz.Form2.resources

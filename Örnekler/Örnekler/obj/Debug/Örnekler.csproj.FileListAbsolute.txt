@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Örnekler\Örnekler\bin\Debug\Örnekler.exe.config
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Örnekler\Örnekler\bin\Debug\Örnekler.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Örnekler\Örnekler\bin\Debug\Örnekler.pdb
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Örnekler\Örnekler\obj\Debug\Örnekler.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Örnekler\Örnekler\obj\Debug\Örnekler.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Örnekler\Örnekler\obj\Debug\Örnekler.Form1.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Örnekler\Örnekler\obj\Debug\Örnekler.Properties.Resources.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Örnekler\Örnekler\obj\Debug\Örnekler.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Örnekler\Örnekler\obj\Debug\Örnekler.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Örnekler\Örnekler\obj\Debug\Örnekler.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Örnekler\Örnekler\obj\Debug\Örnekler.pdb

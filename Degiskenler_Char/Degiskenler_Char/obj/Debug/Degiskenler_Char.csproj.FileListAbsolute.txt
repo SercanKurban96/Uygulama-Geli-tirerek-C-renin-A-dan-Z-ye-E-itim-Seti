@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Char\Degiskenler_Char\bin\Debug\Degiskenler_Char.exe.config
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Char\Degiskenler_Char\bin\Debug\Degiskenler_Char.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Char\Degiskenler_Char\bin\Debug\Degiskenler_Char.pdb
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Char\Degiskenler_Char\obj\Debug\Degiskenler_Char.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Char\Degiskenler_Char\obj\Debug\Degiskenler_Char.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Char\Degiskenler_Char\obj\Debug\Degiskenler_Char.Form1.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Char\Degiskenler_Char\obj\Debug\Degiskenler_Char.Properties.Resources.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Char\Degiskenler_Char\obj\Debug\Degiskenler_Char.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Char\Degiskenler_Char\obj\Debug\Degiskenler_Char.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Char\Degiskenler_Char\obj\Debug\Degiskenler_Char.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Char\Degiskenler_Char\obj\Debug\Degiskenler_Char.pdb

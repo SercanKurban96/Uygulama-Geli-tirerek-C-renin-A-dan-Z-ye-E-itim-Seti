@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer\Donguler_Timer\bin\Debug\Donguler_Timer.exe.config
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer\Donguler_Timer\bin\Debug\Donguler_Timer.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer\Donguler_Timer\bin\Debug\Donguler_Timer.pdb
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.Form1.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.Properties.Resources.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.pdb

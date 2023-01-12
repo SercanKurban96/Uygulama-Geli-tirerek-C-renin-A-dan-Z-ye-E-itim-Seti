@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_4_islem\Degiskenler_4_islem\bin\Debug\Degiskenler_4_islem.exe.config
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_4_islem\Degiskenler_4_islem\bin\Debug\Degiskenler_4_islem.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_4_islem\Degiskenler_4_islem\bin\Debug\Degiskenler_4_islem.pdb
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\Degiskenler_4_islem.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\Degiskenler_4_islem.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\Degiskenler_4_islem.Form1.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\Degiskenler_4_islem.Properties.Resources.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\Degiskenler_4_islem.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\Degiskenler_4_islem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\Degiskenler_4_islem.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\Degiskenler_4_islem.pdb

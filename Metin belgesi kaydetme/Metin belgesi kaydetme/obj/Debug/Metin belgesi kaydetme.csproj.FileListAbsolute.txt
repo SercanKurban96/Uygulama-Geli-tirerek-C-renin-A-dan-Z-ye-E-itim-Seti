@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin belgesi kaydetme\Metin belgesi kaydetme\bin\Debug\Metin belgesi kaydetme.exe.config
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin belgesi kaydetme\Metin belgesi kaydetme\bin\Debug\Metin belgesi kaydetme.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin belgesi kaydetme\Metin belgesi kaydetme\bin\Debug\Metin belgesi kaydetme.pdb
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin belgesi kaydetme\Metin belgesi kaydetme\obj\Debug\Metin belgesi kaydetme.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin belgesi kaydetme\Metin belgesi kaydetme\obj\Debug\Metin belgesi kaydetme.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin belgesi kaydetme\Metin belgesi kaydetme\obj\Debug\Metin_belgesi_kaydetme.Form1.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin belgesi kaydetme\Metin belgesi kaydetme\obj\Debug\Metin_belgesi_kaydetme.Properties.Resources.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin belgesi kaydetme\Metin belgesi kaydetme\obj\Debug\Metin belgesi kaydetme.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin belgesi kaydetme\Metin belgesi kaydetme\obj\Debug\Metin belgesi kaydetme.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin belgesi kaydetme\Metin belgesi kaydetme\obj\Debug\Metin belgesi kaydetme.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin belgesi kaydetme\Metin belgesi kaydetme\obj\Debug\Metin belgesi kaydetme.pdb

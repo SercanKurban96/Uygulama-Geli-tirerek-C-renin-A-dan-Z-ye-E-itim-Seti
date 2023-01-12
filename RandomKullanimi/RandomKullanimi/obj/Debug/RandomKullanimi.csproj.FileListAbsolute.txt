@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\RandomKullanimi\RandomKullanimi\bin\Debug\RandomKullanimi.exe.config
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\RandomKullanimi\RandomKullanimi\bin\Debug\RandomKullanimi.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\RandomKullanimi\RandomKullanimi\bin\Debug\RandomKullanimi.pdb
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\RandomKullanimi\RandomKullanimi\obj\Debug\RandomKullanimi.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\RandomKullanimi\RandomKullanimi\obj\Debug\RandomKullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\RandomKullanimi\RandomKullanimi\obj\Debug\RandomKullanimi.Form1.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\RandomKullanimi\RandomKullanimi\obj\Debug\RandomKullanimi.Properties.Resources.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\RandomKullanimi\RandomKullanimi\obj\Debug\RandomKullanimi.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\RandomKullanimi\RandomKullanimi\obj\Debug\RandomKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\RandomKullanimi\RandomKullanimi\obj\Debug\RandomKullanimi.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\RandomKullanimi\RandomKullanimi\obj\Debug\RandomKullanimi.pdb

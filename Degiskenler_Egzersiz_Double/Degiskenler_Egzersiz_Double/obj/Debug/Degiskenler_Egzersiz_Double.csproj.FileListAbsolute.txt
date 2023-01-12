@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\bin\Debug\Degiskenler_Egzersiz_Double.exe.config
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\bin\Debug\Degiskenler_Egzersiz_Double.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\bin\Debug\Degiskenler_Egzersiz_Double.pdb
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.Form1.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.Properties.Resources.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.pdb
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Egzersiz_Double\Degiskenler_Egzersiz_Double\obj\Debug\Degiskenler_Egzersiz_Double.Form2.resources

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Double\Degiskenler_Double\bin\Debug\Degiskenler_Double.exe.config
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Double\Degiskenler_Double\bin\Debug\Degiskenler_Double.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Double\Degiskenler_Double\bin\Debug\Degiskenler_Double.pdb
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.Form1.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.Properties.Resources.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Degiskenler_Double\Degiskenler_Double\obj\Debug\Degiskenler_Double.pdb

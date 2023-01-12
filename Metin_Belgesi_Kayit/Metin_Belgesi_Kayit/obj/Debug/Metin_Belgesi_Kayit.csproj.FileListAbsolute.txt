@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\bin\Debug\Metin_Belgesi_Kayit.exe.config
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\bin\Debug\Metin_Belgesi_Kayit.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\bin\Debug\Metin_Belgesi_Kayit.pdb
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\obj\Debug\Metin_Belgesi_Kayit.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\obj\Debug\Metin_Belgesi_Kayit.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\obj\Debug\Metin_Belgesi_Kayit.Form1.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\obj\Debug\Metin_Belgesi_Kayit.Properties.Resources.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\obj\Debug\Metin_Belgesi_Kayit.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\obj\Debug\Metin_Belgesi_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\obj\Debug\Metin_Belgesi_Kayit.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Metin_Belgesi_Kayit\Metin_Belgesi_Kayit\obj\Debug\Metin_Belgesi_Kayit.pdb

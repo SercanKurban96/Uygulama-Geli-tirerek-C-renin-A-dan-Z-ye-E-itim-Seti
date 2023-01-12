@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Dinamik Arac\Dinamik Arac\bin\Debug\Dinamik Arac.exe.config
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Dinamik Arac\Dinamik Arac\bin\Debug\Dinamik Arac.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Dinamik Arac\Dinamik Arac\bin\Debug\Dinamik Arac.pdb
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Dinamik Arac\Dinamik Arac\obj\Debug\Dinamik Arac.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Dinamik Arac\Dinamik Arac\obj\Debug\Dinamik Arac.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Dinamik Arac\Dinamik Arac\obj\Debug\Dinamik_Arac.Form1.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Dinamik Arac\Dinamik Arac\obj\Debug\Dinamik_Arac.Properties.Resources.resources
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Dinamik Arac\Dinamik Arac\obj\Debug\Dinamik Arac.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Dinamik Arac\Dinamik Arac\obj\Debug\Dinamik Arac.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Dinamik Arac\Dinamik Arac\obj\Debug\Dinamik Arac.exe
+C:\Users\user\source\repos\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Dinamik Arac\Dinamik Arac\obj\Debug\Dinamik Arac.pdb
